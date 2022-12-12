@@ -3,12 +3,5 @@
 int main()
 {
     std::cout<<"Hello world";
-    std::cout<<"Test test 123";
-    std::cout<<"napis do commita";
-    std::cout<<"4";
-    std::cout<<"b";
-    std::cout<<"napis do commita";
-    std::cout<<"napis do commita";
-    std::cout<<"napis do commita";
     return 0;
 }
