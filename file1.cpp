@@ -9,5 +9,6 @@ int main()
     std::cout<<"b";
     std::cout<<"napis do commita";
     std::cout<<"napis do commita";
+    std::cout<<"napis do commita";
     return 0;
 }
